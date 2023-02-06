@@ -42,4 +42,3 @@ We have only done our classification based on 5 people:
 6. Python Flask for HTTP server
 7. UI - HTML/CSS/JavaScript
 8. Fatkun Batch Download extension was used for image scraping
-# BangaloreHomePricePrediction
