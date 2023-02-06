@@ -3,19 +3,19 @@
 ![](UIsnapshots/ui_snapshot0.JPG)
 ![](UIsnapshots/ui_snapshot.JPG)
 
-At the end we have built a website where you can drag and drop or select images from your PC, which will tell you what the sports person that is.
+I developed this project that allows users to classify images that they add into the interface. I trained a custom machine learning model, built a Flask server around it, and created a user interface for ease of use.
 
 ## Steps that I have gone through
 
 1. Image Scraping
 2. Using OpenCV for face and eye detection
-3. Data cleaning using OpenCV face detection
+3. Data cleaning using OpenCV and Numpy
 4. Feature engineering using Wavelet transformation
 5. Model Building using Support Vector Machines, Logistic Regression, and Random Forests
 6. Using GridSearchCV for fine tuning the model
-7. Exporting model to a file
-8. Writing a flask around it
-9. Built UI using HTML, CSS, JavaScript, and JQuery
+7. Exporting the model
+8. Writing a Flask server around it
+9. Built the UI using HTML, CSS, JavaScript, and JQuery
 
 We have only done our classification based on 5 people:
 
