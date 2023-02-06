@@ -30,6 +30,7 @@ We have only done our classification based on 5 people:
 - ui : Contains the code of UI in HTML, CSS and JavaScript
 - server : Python Flask Server
 - model : Contains the notebook for buiding the ML model and images that I used to train the model
+- UIsnapshots : Contains snapshots of the UI
 
 ## Technologies Used
 
