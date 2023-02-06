@@ -86,11 +86,16 @@ function init() {
         });
     });
 
+    /* This function is called when you click the submit button*/
     $("#submitBtn").on('click', function (e) {
         dz.processQueue();		
     });
 }
 
+/* This is the function that calls when the html document
+is rendered by your web browser.
+When it is rendered, in the initial stage you need to 
+hide the error and resultHolder */
 $(document).ready(function() {
     console.log( "ready!" );
     $("#error").hide();
