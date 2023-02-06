@@ -1,6 +1,7 @@
 # CelebrityFaceRecognition
 
-![](ui_snapshot.JPG)
+![](UIsnapshots/ui_snapshot0.JPG)
+![](UIsnapshots/ui_snapshot.JPG)
 
 At the end we have built a website where you can drag and drop or select images from your PC, which will tell you what the sports person that is.
 
