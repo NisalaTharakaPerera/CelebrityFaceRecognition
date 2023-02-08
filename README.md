@@ -1,6 +1,6 @@
 # CelebrityFaceRecognition
 
-![](UIsnapshots/ui_snapshot0.JPG)
+![](UIsnapshots/ui_snapshot.JPG)
 
 I developed this project that allows users to classify images that they add into the interface. I trained a custom machine learning model, built a Flask server around it, and created a user interface for ease of use.
 
@@ -41,5 +41,3 @@ We have only done our classification based on 5 people:
 6. Python Flask for HTTP server
 7. UI - HTML/CSS/JavaScript
 8. Fatkun Batch Download extension was used for image scraping
-
-![](UIsnapshots/ui_snapshot.JPG)
